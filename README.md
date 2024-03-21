@@ -26,7 +26,7 @@ This is a Python tool for performing image steganography, which is the technique
 ## Usage
 1. Run the application:
 
-`python text-image`
+`python text_embedding_module.py`
 
 2. Select whether to encode or decode.
 3. For encoding:
