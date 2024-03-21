@@ -12,11 +12,11 @@ This is a Python tool for performing image steganography, which is the technique
 ## Installation
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/your_username/image-steganography.git`
+`git clone https://github.com/Al-Iman-LK/PROJECT_3.git`
 
 2. Navigate to the project directory:
 
-`cd image-steganography`
+`cd PROJECT_3`
 
 3. Install the required dependencies:
 
@@ -26,7 +26,7 @@ This is a Python tool for performing image steganography, which is the technique
 ## Usage
 1. Run the application:
 
-`python main.py`
+`python text-image`
 
 2. Select whether to encode or decode.
 3. For encoding:
@@ -41,5 +41,5 @@ This is a Python tool for performing image steganography, which is the technique
 This application was created by AL IMAN. 
 
 ## License
-MIT
+This repository was created under MIT License
 
